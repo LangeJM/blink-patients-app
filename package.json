@@ -1,6 +1,7 @@
 {
   "name": "patients-management-app",
   "version": "0.0.0",
+  "homepage": "https://langejm.github.io/blink-patients-app/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
