@@ -36,6 +36,7 @@
   background-color: #F0F0FF;
   border-radius: 5px;
   width: calc(100% - 8rem);
+  box-shadow: 1px 1px 8px #888;
 }
 
 .filter-wrapper {
